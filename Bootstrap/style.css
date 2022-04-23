@@ -1,0 +1,26 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #7FB3D5;
+}
+
+.quemsomos {
+    background-color: #CCD1D1;
+    color: #21618C;
+}
+
+.servicos {
+    background-color: #CCD1D1;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.bg-footer {
+    background-color: #7FB3D5;
+    color: rgb(15, 15, 15);
+}

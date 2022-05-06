@@ -1,1 +1,1 @@
-![Netflix-clone](https://share.getcloudapp.com/12ug25mo)
+![Netflix-clone](https://github.com/wesleyvelloso/bootcamp-DIOcarrefour/blob/main/Netflix-Clone/netflix-clone.gif)

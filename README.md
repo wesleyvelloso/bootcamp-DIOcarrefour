@@ -1,4 +1,4 @@
-# Bootcamp web development - DIO/Carrefour 💻
+# Bootcamp web development - DIO/Carrefour :mortar_board:
 Repositório criado para os projetos e exercícios do bootcamp, envolvendo as tecnologias JavaScript, ReactJS, JAVA e Springboot.
 
 ## Projetos 🖥️🚀

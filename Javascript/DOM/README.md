@@ -1,6 +1,6 @@
 # Dark Mode / Light Mode
 
-## This script turn on/off the dark mode in your page's element.
+## Esse script liga e desliga os modos escuro/claro no elemento da página.
 
-## Example:
+## Exemplo:
 ![Dark Mode and Light Mode](./dark-mode.gif)

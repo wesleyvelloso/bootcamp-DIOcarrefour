@@ -30,7 +30,7 @@ Repositório criado para os exercícios e projetos do bootcamp, envolvendo as te
   
 ## 🚀 Projetos 
 
-- [Recriando a interface da Netflix](https://github.com/wesleyvelloso/bootcamp-DIOcarrefour/tree/main/Netflix-Clone/readme.md) 
+- [Recriando a interface da Netflix](https://github.com/wesleyvelloso/clone-netflix) 
 
 ## 📌 Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)

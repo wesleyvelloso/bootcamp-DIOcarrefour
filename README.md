@@ -35,6 +35,9 @@ Repositório criado para os exercícios e projetos do bootcamp, envolvendo as te
 - [Back end - Academia Digital](https://github.com/wesleyvelloso/projeto-final-academia)
 
 ## 📌 Links Úteis
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+- [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+- [Common application properties](https://docs.spring.io/spring-boot/docs/2.0.x/reference/html/common-application-properties.html/)
+- [Spring Data JPA - Reference Documentation](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.repositories/)
+- [Validation Reference Implementation](https://docs.jboss.org/hibernate/stable/validator/reference/en-US/html_single/#validator-gettingstarted/)
 
 

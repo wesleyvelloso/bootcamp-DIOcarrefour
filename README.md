@@ -32,6 +32,7 @@ Repositório criado para os exercícios e projetos do bootcamp, envolvendo as te
 
 - [Recriando a interface da Netflix](https://github.com/wesleyvelloso/clone-netflix) 
 - [Mapeando dados da Covid-19](https://github.com/wesleyvelloso/covid19-pwa)
+- [Back end - Academia Digital](https://github.com/wesleyvelloso/projeto-final-academia)
 
 ## 📌 Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
